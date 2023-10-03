@@ -6,20 +6,17 @@
     </a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-20-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
+        <img src="https://img.shields.io/badge/age-21-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
     </a>
 </div>
 <div align="center">
-    <h3>👋 Hi my name is oncite</h3>
-    I'm a 20 year old developer, editor, and musician.
-    <h3>📚 Languages / Frameworks</h3>
+    <h3>👋 Hi my name is Jerome </h3>
+    I'm a 21 year old developer
+    <h3>📚 My Skills</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,jquery,bash,express,css,nextjs,html,js,md,nodejs,mongodb,react,tailwind,angular,ts,sass,webpack,threejs&perline=13">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=aws,cpp,eclipse,instagram,linkedin,matlab,twitter,java&perline=13">
     </a>
-    <h3>🔧 Other Stuff</h3>
-    <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,ai,ps,pr,gcp,firebase,electron,express,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=13">
-    </a>
+   
 </div>
 
 <br/>
@@ -63,19 +60,11 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://steamcommunity.com/id/nexpid">
+        <a href="https://steamcommunity.com/id/">
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/steam/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/steam/000" media="(prefers-color-scheme: light)" />
                 <img alt="Steam" src="https://cdn.simpleicons.org/steam/FFF" width="45" />
-            </picture>
-        </a>
-        &nbsp;
-        <a href="https://www.roblox.com/users/304346361">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/roblox/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/roblox/000" media="(prefers-color-scheme: light)" />
-                <img alt="Roblox" src="https://cdn.simpleicons.org/roblox/FFF" width="45" />
             </picture>
         </a>
         &nbsp;
