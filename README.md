@@ -10,8 +10,8 @@
     </a>
 </div>
 <div align="center">
-    <h3>👋 Hi my name is Jerome </h3>
-    I'm a 21 year old developer
+    <h3>👋 Hi my name is Jerome Carr</h3>
+    I'm a 22 year old developer
     <h3>📚 My Skills</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=aws,cpp,eclipse,instagram,linkedin,matlab,twitter,java&perline=13">
