@@ -25,15 +25,7 @@
 
 
 
-<div onhover="" align="center">
-    <a  href="https://discord.com/users/853550207039832084">
-        <img width="400px" height="200px" src="https://lanyard.cnrad.dev/api/233264912854548481?bg=0b0b0b&text_color=ffc6c7&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=fireflightg&show_icons=true&bg_color=0b0b0b&text_color=ffff&icon_color=1e1e2e&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
-    </a>
-</div>
+
 
 <br/>
 <br/>
