@@ -23,10 +23,6 @@
 <br/>
 
 
-
-
-
-
 <br/>
 <br/>
 <div align="center">
@@ -41,14 +37,6 @@
                 <source srcset="https://cdn.simpleicons.org/kofi/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/kofi/000" media="(prefers-color-scheme: light)" />
                 <img alt="Ko-fi" src="https://cdn.simpleicons.org/kofi/FFF" width="45" />
-            </picture>
-        </a>
-        &nbsp;
-        <a href="https://discord.gg/WjMRCeH9J8">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
-                <img alt="Discord" src="https://cdn.simpleicons.org/discord/FFF" width="45" />
             </picture>
         </a>
         &nbsp;
