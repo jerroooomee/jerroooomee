@@ -1,9 +1,6 @@
 ---
 <body style="background-color: #faeee7;">
     <div align="center">
-    <a href="https://pronoundb.org/">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=0b0b0b">
-    </a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
         <img src="https://img.shields.io/badge/age-21-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
