@@ -1,4 +1,4 @@
-# I'm Jerome Carr
+# Jerome Carr
 #### Electrical and Computer Engineer
 I am a senior electrical and computer engineering major at The Ohio State University. I enjoy coding mainly in back-end and I am currently self-learning react js to improve my front-end skills. You can check me out on linkedin and instagram. I have some links below
 
