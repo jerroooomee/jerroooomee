@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jerome Carr
+#### Electrical and Computer Engineer  
+I am a senior electrical and computer engineering major at The Ohio State University. I am a back-end developer and mainly code in Java. I am currently self-learning React.js to improve my front-end skills. 
 
-<!--
-**jerroooomee/jerroooomee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can check me out on LinkedIn and Instagram. I have some links below:
 
-Here are some ideas to get you started:
+**Skills:**
+- REACT
+- JS
+- JAVA
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my Portfolio Website.  
+🌱 I’m currently learning React.js.
+
+---
+
+**Connect with me:**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jerroooomee)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeromecarr255/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jerroooomee/)  
+
+![image](https://github.com/user-attachments/assets/a11d38bb-b4b9-47a3-938f-ce33701f80d7)
+
+
