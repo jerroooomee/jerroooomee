@@ -1,17 +1,16 @@
 # Jerome Carr
 #### Electrical and Computer Engineer  
-I am a senior electrical and computer engineering major at The Ohio State University. I am a back-end developer and mainly code in Java. I am currently self-learning React.js to improve my front-end skills. 
+I am a software engineer developing and maintaining Java/Spring-based POS applications.
 
 You can check me out on LinkedIn and Instagram. I have some links below:
 
 **Skills:**
-- REACT
-- JS
 - JAVA
-- C++
+- SPRING
+- REACT JS
 
-🔭 I’m currently working on my Portfolio Website.  
-🌱 I’m currently learning React.js.
+🔭 I’m currently building a an EPL LED score indicator  
+🌱 I’m currently learning cloud computing
 
 ---
 
