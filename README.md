@@ -6,7 +6,7 @@ You can check me out on LinkedIn and Instagram. I have some links below:
 
 **Skills:**
 - JAVA
-- SPRING
+- SPRINGBOOT
 - REACT JS
 
 🔭 I’m currently building a an EPL LED score indicator  
